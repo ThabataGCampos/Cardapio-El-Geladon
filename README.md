@@ -4,7 +4,7 @@
 Esse projeto foi realizado em react, do curso da Blue EdTech módulo III, front end. 
 
 ## Link do projeto
-<a href="https://thabatagcampos.github.io/ElGeladon/" target="_blank"><img style="width:6%" src="./assets/images/morango-com-leite-condensado.png" alt="ElGeladonIcon"></a>
+<a href="https://thabatagcampos.github.io/Cardapio-El-Geladon/" target="_blank"><img style="width:6%" src="./assets/images/morango-com-leite-condensado.png" alt="ElGeladonIcon"></a>
 
 ## Stacks
 Ferramentas usadas:
